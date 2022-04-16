@@ -1,2 +1,2 @@
-# classroom-data-visualization-with-tableau
-Classroom: Data Visualization with Tableau.
+# classroom-data-visualization
+Classroom: Data Visualization.
